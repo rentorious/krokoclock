@@ -2,7 +2,7 @@ import React from "react";
 import ImageGrid from "./comps/ImageGrid";
 import IntervalSetter from "./comps/IntervalSetter";
 import Modal from "./comps/Modal";
-import Timer from "./comps/Timer";
+// import Timer from "./comps/Timer";
 import Title from "./comps/Title";
 import UploadForm from "./comps/UploadForm";
 import useKroki from "./hooks/useKroki";
