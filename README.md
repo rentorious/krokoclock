@@ -6,7 +6,7 @@ the app is made with React and Firebase.
 
 The usage for this app is for practicing *Croquis*
 
-> Croquis drawing is quick and sketchy drawing - Wikipedia
+> Croquis drawing is quick and sketchy drawing of a live model - Wikipedia
 
 ## Functionality:
 - Add and remove images 
