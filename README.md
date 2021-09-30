@@ -4,6 +4,10 @@ This is an app I made for my friend.
 
 the app is made with React and Firebase.
 
+The usage for this app is for practicing *Croquis*
+
+> Croquis drawing is quick and sketchy drawing - Wikipedia
+
 ## Functionality:
 - Add and remove images 
 - Set the time interval between switching pictures
